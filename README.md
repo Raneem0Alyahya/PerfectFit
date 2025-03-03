@@ -27,7 +27,8 @@ PerfectFit is an AI-powered outfit recommendation system that uses a genetic alg
    ```sh
    git clone https://github.com/Raneem0Alyahya/PerfectFit.git
    ```
-2. Open `AI_Project.ipynb` in Google Colab or Jupyter Notebook.
+2. Open `
+PerfectFit.ipynb` in Google Colab or Jupyter Notebook.
 3. Ensure dependencies are installed by running:
    ```sh
    pip install pandas matplotlib
