@@ -1,0 +1,41 @@
+﻿Category,ItemNamse,Price,Dress Code,Color,Comfort Level
+Top,T-shirt,0,Casual,Bright,5
+Top,Formal Shirt,120,Business,Dark,3
+Top,Polo Shirt,80,Sportswear,Bright,4
+Top,Evening Blouse,150,Evening,Dark,3
+Top,Sweater,0,Casual,Dark,5
+Top,Hoodie,60,Casual,Bright,4
+Top,Tank Top,0,Sportswear,Bright,4
+Top,Silk Blouse,200,Evening,Dark,3
+Bottom,Jeans,0,Casual,Dark,4
+Bottom,Formal Trousers,150,Business,Dark,3
+Bottom,Sports Shorts,0,Sportswear,Bright,5
+Bottom,Skirt,100,Evening,Bright,3
+Bottom,Chinos,90,Business,Dark,4
+Bottom,Leggings,60,Casual,Dark,5
+Bottom,Athletic Pants,80,Sportswear,Bright,5
+Bottom,Evening Gown Bottom,250,Evening,Dark,1
+Shoes,Sneakers,0,Sportswear,Bright,5
+Shoes,Leather Shoes,180,Business,Dark,2
+Shoes,Running Shoes,120,Sportswear,Bright,5
+Shoes,Ballet Flats,90,Casual,Dark,4
+Shoes,High Heels,250,Evening,Dark,2
+Shoes,Sandals,0,Casual,Bright,5
+Shoes,Loafers,150,Business,Dark,3
+Shoes,Evening Pumps,220,Evening,Bright,2
+Neck,Silk Scarf,70,Business,Dark,3
+Neck,Sports Scarf,0,Sportswear,Bright,4
+Neck,Necklace,220,Evening,Dark,3
+Neck,Casual Scarf,0,Casual,Bright,5
+Neck,Bow Tie,80,Evening,Dark,3
+Neck,Athletic Headband,50,Sportswear,Bright,5
+Neck,Diamond Necklace,750,Evening,Bright,3
+Neck,Choker,0,Evening,Dark,4
+Purse,Clutch Bag,100,Evening,Dark,3
+Purse,Canvas Bag,0,Casual,Bright,5
+Purse,Leather Briefcase,180,Business,Dark,1
+Purse,Sports Backpack,80,Sportswear,Bright,5
+Purse,Tote Bag,0,Casual,Bright,4
+Purse,Wristlet,150,Evening,Dark,3
+Purse,Fanny Pack,50,Sportswear,Bright,4
+Purse,Elegant Handbag,250,Evening,Dark,3
