@@ -78,12 +78,4 @@ The final suggested outfit includes:
 - Purse
 - Fitness Score
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Author
-
-Developed by Raneem Al-Yahya
-
 
